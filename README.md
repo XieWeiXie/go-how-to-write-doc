@@ -12,4 +12,4 @@
 - doc.go 文件
 
 
-:fir::fire: go doc 的使用
+:fire::fire: go doc 的使用
