@@ -158,3 +158,5 @@ http://127.0.0.1:9999/pkg/github.com/wuxiaoxiaoshen/go-how-to-wirte-doc/part_one
 ```
 
 随意更改包内的注释，查看本地文档的变化。
+
+![image](image/partone_doc.png)
