@@ -12,19 +12,6 @@
 - doc.go 文件
 
 
-## 大纲
-
-- go doc 的使用
-- 注释说明
-    - package
-    - const
-    - var
-    - function
-    - doc.go
-    - Example... 样本测试
-- gometalinter ， go vet 对代码进行检查
-
-
 > 只对可导出的变量、常量、函数、方法可自动识别。意味着对这些进行注释，才可生成文档。
 
 
