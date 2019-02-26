@@ -1,6 +1,6 @@
 # How to write doc for golang package
 [![Build Status](https://travis-ci.com/wuxiaoxiaoshen/go-how-to-write-doc.svg?token=NJwtDqGPUSoHiysBfFqE&branch=master)](https://travis-ci.com/wuxiaoxiaoshen/go-how-to-write-doc)
-
+[![codecov](https://codecov.io/gh/wuxiaoxiaoshen/go-how-to-write-doc/branch/master/graph/badge.svg)](https://codecov.io/gh/wuxiaoxiaoshen/go-how-to-write-doc)
 
 :fire::fire: 大纲
 
