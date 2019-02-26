@@ -1,4 +1,5 @@
 // Package partone is a package example
+//
 // A example for package partone: how to write doc with golang
 //
 // Doc Detail
