@@ -14,7 +14,7 @@ notifications:
 
 before_install:
   - go test -cpu=1,2,4 -v -tags integration ./...
-  - go vet ./...
+  - go vet $(go list ./... | grep -v /vendor/)
 
 script:
   - go test -race  ./... -coverprofile=coverage.txt -covermode=atomic
